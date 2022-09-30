@@ -2,6 +2,7 @@
 var Damian = `Alumno comprometido`;
 let Wiedermann = 'El profe que mejor explica';
 const Juan = "Preceptor que no suele faltar";
+let altaFrase = `Damián Lorang ${Damian}, Exequiel Wiedermann ${Wiedermann} y Juan Perez ${Juan}`;
 let num1 = 12;
 let num2 = 38;
 let suma = num1+num2;
