@@ -8,6 +8,7 @@ let suma = num1+num2;
 let resta = num2-num1;
 let multiplicacion = num1*num2;
 let inicio = 0;
+const dias = ['Lunes','Martes','Miercoles','Jueves','Viernes','Sabado','Domingo'];
 //#endregion variables
 //#region impresion
 console.log(Damian);
