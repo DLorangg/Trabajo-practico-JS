@@ -12,4 +12,7 @@ let multiplicacion = num1*num2;
 console.log(Damian);
 console.log(Wiedermann);
 console.log(Juan);
+console.log(suma);
+console.log(resta);
+console.log(multiplicacion);
 //#endregion impresion
