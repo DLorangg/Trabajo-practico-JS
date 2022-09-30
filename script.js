@@ -20,4 +20,5 @@ console.log(multiplicacion);
 for (let value of dias){
     console.log(value);
 }
+console.log(altaFrase);
 //#endregion impresion
