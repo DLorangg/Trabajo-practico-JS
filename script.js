@@ -5,6 +5,7 @@ const Juan = "Preceptor que no suele faltar";
 let num1 = 12;
 let num2 = 38;
 let suma = num1+num2;
+let resta = num2-num1;
 //#endregion variables
 //#region impresion
 console.log(Damian);
