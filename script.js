@@ -1,7 +1,7 @@
 //#region variables
-var Damian = `Alumno comprometido`;
-let Wiedermann = 'El profe que mejor explica';
-const Juan = "Preceptor que no suele faltar";
+var Damian = `alumno comprometido`;
+let Wiedermann = 'el profe que mejor explica';
+const Juan = "preceptor que no suele faltar";
 let altaFrase = `Damián Lorang ${Damian}, Exequiel Wiedermann ${Wiedermann} y Juan Perez ${Juan}`;
 let num1 = 11;
 let num2 = 13;
@@ -21,14 +21,14 @@ for (let value of dias){
 console.log(altaFrase);
 //#endregion impresion
 //#region condicionales
-if (Damian=="Alumno comprometido"){
+if (Damian=="alumno comprometido"){
     console.log("Damián merece buena nota");
 }else{
     console.log("Damián no merece buena nota");
 }   
-if(Wiedermann=="El profe que mejor explica"){
+if(Wiedermann=="el profe que mejor explica"){
     Wiedermann='el mejor profe';
-    console.log("Wiedermann es ",Wiedermann);
+    console.log("Wiedermann es",Wiedermann);
 }else{
     Wiedermann='un profe comun';
     console.log("Wiedermann es",Wiedermann);
