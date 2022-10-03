@@ -11,8 +11,6 @@ let multiplicacion = num1*num2;
 const dias = ['Lunes','Martes','Miercoles','Jueves','Viernes','Sabado','Domingo'];
 //#endregion variables
 //#region impresion
-console.log(Damian);
-console.log(Wiedermann);
 console.log(Juan);
 console.log(suma);
 console.log(resta);
