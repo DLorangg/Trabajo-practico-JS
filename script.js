@@ -21,16 +21,6 @@ for (let value of dias){
 console.log(altaFrase);
 //#endregion impresion
 //#region condicionales
-if (Damian=="alumno comprometido"){
-    console.log("Damián merece buena nota");
-}else{
-    console.log("Damián no merece buena nota");
-}   
-if(Wiedermann=="el profe que mejor explica"){
-    Wiedermann='el mejor profe';
-    console.log("Wiedermann es",Wiedermann);
-}else{
-    Wiedermann='un profe comun';
-    console.log("Wiedermann es",Wiedermann);
-}
+console.log("Wiedermann es "+(Wiedermann ? "el mejor profe." : "un profe común."));
+console.log("Damián "+(Damian ? "merece buena nota." : "no merece buena nota."));
 //#endregion condicionales
